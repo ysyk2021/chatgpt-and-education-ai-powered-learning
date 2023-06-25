@@ -17,4 +17,4 @@
 17. Emerging educational technologies
 18. Next-generation learning management systems
 19. Education software development
-20. Educational chatbot development.
+20. Educational chatbot development
