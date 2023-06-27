@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will explore the features and capabilities of ChatGPT technology, an AI-powered tool that has the potential to transform the education industry.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a language model developed by OpenAI that uses deep learning algorithms to generate human-like responses to natural language input. It is a powerful tool for natural language processing, capable of generating coherent and contextually appropriate responses to a wide range of prompts.
-
 Features of ChatGPT
 -------------------
 
