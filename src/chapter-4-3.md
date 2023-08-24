@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for education industry
-=============================================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the way education is delivered and experienced. In this chapter, we will explore the benefits of using AI and chatbots in the education industry.
 

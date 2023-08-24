@@ -1,5 +1,3 @@
-How AI and chatbots can improve learning experience
-========================================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the way education is delivered and experienced. In this chapter, we will explore the role of AI and chatbots in education and how they can improve the learning experience.
 

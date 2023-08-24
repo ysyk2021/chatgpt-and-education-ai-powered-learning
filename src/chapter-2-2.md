@@ -1,5 +1,3 @@
-Different Types of Educational Institutions and Programs
-=================================================================================================
 
 In this chapter, we will explore the different types of educational institutions and programs within the education industry.
 

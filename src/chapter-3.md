@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Education Industry
-===========================================
 
 The education industry faces several challenges that impact the learning experience of both educators and students. In this chapter, we will explore the factors affecting the education industry, common challenges faced by educators and students, and the impact of these challenges on the learning experience.
 

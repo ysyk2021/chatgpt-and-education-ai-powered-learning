@@ -1,5 +1,3 @@
-Chapter 6: Future of Education Industry with ChatGPT
-====================================================
 
 In this chapter, we will examine the potential advancements, emerging trends, and challenges facing the education industry with the implementation of ChatGPT technology.
 

@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore ChatGPT - what it is, its features and capabilities, and how it can be used for personalized learning and student engagement in education.
 

@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Education
-===================================================
 
 In this chapter, we will explore the role of AI and chatbots in education. We will begin with an introduction to AI and chatbots, followed by an examination of how they can improve the learning experience. Finally, we will discuss the benefits of using AI and chatbots for the education industry.
 

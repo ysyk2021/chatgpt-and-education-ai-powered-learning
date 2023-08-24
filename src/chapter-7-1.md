@@ -1,5 +1,3 @@
-Potential Advancements in Education Industry with ChatGPT
-===============================================================================================================
 
 In this chapter, we will explore the potential advancements that ChatGPT technology could bring to the education industry in the future.
 

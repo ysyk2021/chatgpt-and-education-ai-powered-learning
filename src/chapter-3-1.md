@@ -1,5 +1,3 @@
-Factors affecting education industry
-=================================================================================
 
 The education industry faces several challenges that impact the learning experience of students. In this chapter, we will explore some of the factors that contribute to these challenges.
 

@@ -1,5 +1,3 @@
-Chapter 1: Basics of Education Industry
-=======================================
 
 In this chapter, we will explore the basics of the education industry, including its definition, different types of educational institutions and programs, and the importance of personalized learning and student engagement.
 

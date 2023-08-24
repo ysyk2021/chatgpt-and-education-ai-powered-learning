@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-====================================================================================
 
 Artificial intelligence (AI) and chatbots are revolutionizing the way education is delivered and experienced. In this chapter, we will provide an introduction to AI and chatbots and explore their potential applications in education.
 

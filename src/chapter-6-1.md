@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Education Industry
-=======================================================================================================
 
 In this chapter, we will explore the steps required to implement ChatGPT technology in the education industry.
 

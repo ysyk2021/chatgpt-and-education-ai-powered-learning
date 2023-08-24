@@ -1,5 +1,3 @@
-Common challenges faced by educators and students
-==============================================================================================
 
 The education industry faces several common challenges that impact the learning experience of both educators and students. In this chapter, we will explore some of these challenges.
 

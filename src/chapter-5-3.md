@@ -1,5 +1,3 @@
-How ChatGPT can be used for Personalized Learning and Student Engagement in Education
-=======================================================================================================================
 
 In this chapter, we will explore how ChatGPT can be used for personalized learning and student engagement in education.
 

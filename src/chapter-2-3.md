@@ -1,5 +1,3 @@
-Importance of Personalized Learning and Student Engagement
-===================================================================================================
 
 In this chapter, we will explore the basics of the education industry, focusing on the importance of personalized learning and student engagement.
 

@@ -1,5 +1,3 @@
-Conclusion and future outlook
-===================================================================================
 
 In this book, we have explored the ways in which ChatGPT can be used to power AI-based learning in the education industry. We have examined the features and capabilities of ChatGPT, as well as the potential advancements, emerging trends, and challenges in using ChatGPT for education.
 

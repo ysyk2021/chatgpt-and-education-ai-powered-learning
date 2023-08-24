@@ -1,5 +1,3 @@
-Impact of these challenges on learning experience
-==============================================================================================
 
 The education industry faces several challenges that impact the learning experience of students. In this chapter, we will explore some of these challenges and examine their impact on the learning experience.
 

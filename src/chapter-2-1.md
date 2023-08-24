@@ -1,5 +1,3 @@
-Definition of Education Industry
-=========================================================================
 
 The education industry is a critical component of society, as it provides students with the knowledge and skills they need to succeed in their personal and professional lives. In this chapter, we will explore the definition of the education industry and its importance.
 

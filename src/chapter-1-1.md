@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the role of AI-powered learning, specifically ChatGPT technology, in improving the learning experience for students in the education industry. We will begin by examining the basics of the education industry, including its definition and different types of educational institutions and programs.
 

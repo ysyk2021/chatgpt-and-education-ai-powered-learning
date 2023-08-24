@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Education Industry and ChatGPT
-======================================================================================================================
 
 In this chapter, we will explore the emerging trends and challenges that could impact the future of the education industry with ChatGPT technology.
 
