@@ -1,5 +1,4 @@
-Chapter 15: Features and Capabilities of ChatGPT
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we delve into the features and capabilities of ChatGPT. Understanding the capabilities of this powerful AI technology is crucial in order to harness its potential for enhancing education and learning experiences.
 

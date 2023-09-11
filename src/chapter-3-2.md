@@ -1,5 +1,4 @@
-Chapter 3: Common Challenges Faced by Educators and Students
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we discuss the common challenges faced by educators and students when incorporating ChatGPT into the learning process. While AI technologies like ChatGPT offer exciting possibilities, it is important to recognize and address these challenges to ensure a positive educational experience for all.
 

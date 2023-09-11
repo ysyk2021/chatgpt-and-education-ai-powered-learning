@@ -1,5 +1,4 @@
-Chapter 17: Conclusion and Future Outlook
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter of "ChatGPT and Education: AI-Powered Learning," we reflect on the key findings and insights presented throughout the book and outline the future outlook for ChatGPT in education. As AI technology continues to advance, ChatGPT holds immense potential for revolutionizing learning experiences and shaping the future of education.
 

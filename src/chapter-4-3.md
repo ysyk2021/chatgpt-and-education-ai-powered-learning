@@ -1,5 +1,4 @@
-Chapter 8: Benefits of Using AI and Chatbots in the Education Industry
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we explore the numerous benefits of using AI and chatbots in the education industry. These technologies offer transformative potential, revolutionizing the way educational institutions deliver learning experiences and support student success.
 

@@ -1,5 +1,4 @@
-Chapter 7: Steps to Implement ChatGPT in the Education Industry
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we outline the steps to successfully implement ChatGPT in the education industry. These steps will guide educational institutions in integrating ChatGPT into their services, ensuring a smooth implementation process and maximizing the benefits of AI-powered chatbots.
 

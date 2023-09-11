@@ -1,5 +1,4 @@
-Chapter 12: Different Types of Educational Institutions and Programs
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we explore the various types of educational institutions and programs available to students. From traditional schools to specialized training centers, the educational landscape offers diverse options to cater to different learning needs and goals.
 

@@ -1,5 +1,4 @@
-Chapter 16: Emerging Trends and Challenges in the Education Industry and ChatGPT
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we explore the emerging trends and challenges in the education industry and how they intersect with the implementation of ChatGPT. As AI technology continues to evolve, it brings both exciting opportunities and important considerations for educators and learners alike.
 

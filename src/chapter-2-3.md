@@ -1,5 +1,4 @@
-Chapter 11: Importance of Personalized Learning and Student Engagement
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we highlight the significance of personalized learning and student engagement in the educational process. By leveraging AI technologies, such as chatbots, education can be tailored to meet the unique needs of individual learners, promoting active participation and fostering a more effective and engaging learning experience.
 

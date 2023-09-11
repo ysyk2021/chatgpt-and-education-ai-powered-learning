@@ -1,5 +1,4 @@
-Chapter 4: Factors Affecting the Education Industry
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we explore the various factors that are influencing the education industry in the context of integrating AI technologies like ChatGPT. Understanding these factors is crucial for educators, policymakers, and stakeholders to navigate the evolving landscape of education effectively.
 

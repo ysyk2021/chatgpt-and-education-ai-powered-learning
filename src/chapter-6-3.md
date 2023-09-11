@@ -1,5 +1,4 @@
-Chapter 6: Case Studies of Educational Institutions Successfully Implementing ChatGPT
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we present case studies of educational institutions that have successfully implemented ChatGPT in their services. These real-life examples showcase the benefits, challenges, and best practices of integrating ChatGPT into educational settings.
 

@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we provide an introduction to Artificial Intelligence (AI) and chatbots. We explore the basic concepts, applications, and benefits of AI and how chatbots, like ChatGPT, are revolutionizing the education landscape.
 

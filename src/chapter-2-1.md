@@ -1,5 +1,4 @@
-Chapter 10: Definition of Education Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we explore the definition of the education industry. The education industry comprises various institutions and organizations that provide educational products, services, and facilities. It encompasses a broad range of educational levels, from primary school to higher education, as well as specialized training and professional development.
 

@@ -1,5 +1,4 @@
-Chapter 14: Potential Advancements in the Education Industry with ChatGPT
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Education: AI-Powered Learning," we explore the potential advancements that ChatGPT technology can bring to the education industry. With its ability to understand and generate human-like text, ChatGPT has the power to revolutionize teaching and learning, making education more accessible, efficient, and effective.
 
